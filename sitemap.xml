@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://isahirea.github.io/home-lab/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
+         <loc>https://isahirea.github.io/home-lab/active-directory/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
+         <loc>https://isahirea.github.io/home-lab/dhcp/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
+         <loc>https://isahirea.github.io/home-lab/dns/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
+         <loc>https://isahirea.github.io/home-lab/testing/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
+         <loc>https://isahirea.github.io/home-lab/vm-setup/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+</urlset>
